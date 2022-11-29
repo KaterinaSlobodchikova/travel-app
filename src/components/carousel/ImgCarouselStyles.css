@@ -8,8 +8,7 @@
 }
 
 .thumbs-wrapper,
-.carousel-status {
+.carousel-status,
+.control-dots {
   display: none;
 }
-
-
